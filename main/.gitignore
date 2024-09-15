@@ -4,6 +4,7 @@ dist/
 # generated types
 .astro/
 .vscode/
+package-lock.json
 
 # dependencies
 node_modules/
